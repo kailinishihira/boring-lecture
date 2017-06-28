@@ -4,7 +4,7 @@ body {
   color: #053326;
 }
 
-h2.intro {
+/*h2.intro {
   font-size: 30px;
   font-style: italic;
 }
@@ -17,4 +17,14 @@ p.intro {
   font-weight: bold;
   font-style: italic;
   margin: 0px 200px 0px 200px;
+}*/
+
+.intro {
+  font-size: 30px;
+  font-style: italic;
+  width: 40%;
+}
+
+.intro img{
+  width: 100%;
 }
